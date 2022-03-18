@@ -1,4 +1,4 @@
-package com.ljz.studykotlin
+package com.studykotlin.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
